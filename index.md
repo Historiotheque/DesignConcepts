@@ -13,4 +13,4 @@ its Refcards, and the novels it feeds.*
 
 ## Concepts
 
-- *(the first concept lands here — see below)*
+- **DC-2026-001 — The Novel-as-a-System** — \concepts/2026-06-21-novel-as-a-system.md``
