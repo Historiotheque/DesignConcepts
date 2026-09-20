@@ -1,4 +1,4 @@
-# DesignConcepts
+# Design Concepts
 
 The design-concepts laboratory of the Historiotheque — where works are designed
 before they are made.
