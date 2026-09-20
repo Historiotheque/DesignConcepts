@@ -57,8 +57,7 @@ to change: entering the workspace and asking, *what is different here today?*
 The theory is formalized on paper, but the instrumentation is still manual: deltas
 are currently *sensed*, not measured. There is no delta-log yet — no systematic record
 of what changed between sessions. The next actionable step is a delta-logging practice
-folded into the studio log format ("what changed today?"), with the Workspace Taxonomy
-as the first instrument for naming the changes.
+folded into the studio log format ("what changed today?"), with the [Workspace Taxonomy](https://github.com/Historiotheque/Historiotheque/blob/main/docs/new-documentation/workspace-taxonomy_june-2026.md) as the first instrument for naming the changes.
 
 ### Open questions
 
