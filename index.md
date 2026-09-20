@@ -7,7 +7,7 @@ its Refcards, and the works it feeds.*
 
 ### Novels & novelistic phenomenologies
 
-- **DC-2026-001 — The Novel-as-a-System** — [concepts/2026-06-21-novel-as-a-system.md](concepts/2026-06-21-novel-as-a-system.md)
+- **DC-2026-001 — The Novel-as-a-System** — [concepts/2026-06-20-novel-as-a-system.md](concepts/2026-06-21-novel-as-a-system.md)
 
 ### Workspace & Art Operation
 
