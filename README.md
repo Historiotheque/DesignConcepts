@@ -1,39 +1,44 @@
-# Design Concepts
+# DesignConcepts
 
-The novel-concepts laboratory of the Historiotheque: one file per novel design concept.
+The design-concepts laboratory of the Historiotheque — where works are designed
+before they are made.
 
-## What a design concept is
+A design concept is a designed whole conceived all at once: a novel, a series, an
+album, the workspace itself, the Art Operation. One file per concept, in five
+sections — the concept whole, systems and simulations, philosophical machinery,
+bottleneck note, open questions. Versions are new dated files, never in-place
+rewrites: the history of a design is part of the design.
 
-A design concept is a novel concept for a novel — not a plot, not a character, but the
-conceptual machinery a novel runs on: the systems it simulates, the philosophical engine
-underneath it, the problem it was built to solve. Design concepts are where the novels
-are designed before they are written.
-
-## One file per concept
-
-Each concept lives in `design-concepts/YYYY-MM-DD-slug.md` and carries a stable ID:
-`DC-YYYY-NNN` (e.g. `DC-2026-001`). IDs never change; titles may.
-
-## Versions are new files, not edits
-
-A design concept is never rewritten in place. When a concept evolves, write a new dated
-file and link it from the old one (`superseded_by:` in the frontmatter). The history of
-a concept's thinking is part of the concept.
+DesignConcepts is the middle layer of the operation: Refcards hold the atoms,
+DesignConcepts hold the systems, Works hold the outputs.
 
 ## The five sections
 
-1. **The concept whole** — the concept in one grasp: what it is, in full.
-2. **Systems and simulations** — the systems the novel simulates, and how.
-3. **Philosophical machinery** — the philosophical engine underneath.
-4. **Bottleneck note** — how the concept survives the 1D bottleneck of words: what is
-   lost in linearization, and the strategy for losing as little as possible.
-5. **Open questions** — what the concept hasn't solved yet.
+- **The concept, whole** — the work as it arrived: premise, world, arc, stated as
+  one continuous vision, not broken into steps.
+- **Systems and simulations** — the concept treated as a system: its moving parts,
+  its rules, its feedback loops. What is being simulated?
+- **Philosophical machinery** — the theories the work carries and how they are
+  expressed — through characters, images, sound, structure — rather than expounded.
+- **The bottleneck note** — where the concept stands against the 1D bottleneck:
+  what has been executed one unit at a time, what is stuck, and what the next
+  actionable step is.
+- **Open questions** — what the concept still needs: research, decisions, missing
+  machinery.
 
-## Relation to the rest of the operation
+## File conventions
 
-- Concepts are *designed* here, *written* in the novels repo, *atomized* as Refcards.
-- A concept may cite Refcards (`RC-YYYY-NNNN`) and studio logs; novels cite concepts
-  (`DC-YYYY-NNN`).
+- One file per concept: `concepts/YYYY-MM-DD-<slug>.md`.
+- Frontmatter: `id` (`DC-YYYY-NNN`), `title`, `domain`
+  (`novels | series | sound | texts | workspace | operation`), dates, `status`,
+  `related_cards`, `related_logs`, `supersedes` / `superseded_by`.
+- New versions are new dated files; link versions in frontmatter.
+- Project repos link to concept IDs; they don't duplicate the files.
+
+## Index
+
+See `index.md` — the map of the laboratory, grouped by domain. Every concept links
+to its versions, its Refcards, and the works it feeds.
 
 - - - - - - -
 
