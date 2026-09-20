@@ -1,19 +1,26 @@
-# Design Concepts Index
+# DesignConcepts Index
 
-*The map of the novel-concepts laboratory. Every concept links to its versions,
-its Refcards, and the novels it feeds.*
-
-## How to read this system
-
-- One concept per file: `design-concepts/YYYY-MM-DD-slug.md`, ID `DC-YYYY-NNN`.
-- Concepts evolve by new dated files, never in-place rewrites — follow `superseded_by:`
-  to travel forward, `supersedes:` to travel back.
-- The **Bottleneck note** in each file records how the concept handles the 1D bottleneck
-  of words.
+*The map of the design-concepts laboratory. Every concept links to its versions,
+its Refcards, and the works it feeds.*
 
 ## Concepts
 
+### Novels & novelistic phenomenologies
+
 - **DC-2026-001 — The Novel-as-a-System** — [concepts/2026-06-21-novel-as-a-system.md](concepts/2026-06-21-novel-as-a-system.md)
+
+### Workspace & Art Operation
+
+- **DC-2026-002 — Delta-Workspace Theory** — [concepts/2026-09-20-delta-workspace-theory.md](concepts/2026-09-20-delta-workspace-theory.md)
+- **DC-2026-003 — Historiotopia and Art Operation 4.0** — [concepts/2026-09-20-historiotopia-and-art-operation-4-0.md](concepts/2026-09-20-historiotopia-and-art-operation-4-0.md)
+
+### Series & bodies of work
+
+- *(forthcoming)*
+
+### Sound & albums
+
+- *(forthcoming)*
 
 - - - - - - -
 
