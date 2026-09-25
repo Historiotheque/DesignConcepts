@@ -1,4 +1,4 @@
-# Design Concepts
+# Design Concepts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22964470.svg)](https://doi.org/10.5281/zenodo.22964470)
 
 The design-concepts laboratory of the Historiotheque — where works are designed
 before they are made.
